@@ -1,0 +1,20 @@
+#quotes {
+    position: absolute;
+    bottom: 30px;
+
+}
+
+#quotes span {
+    color: white;
+    font-weight: 600;
+    margin-right: 10px;
+}
+
+.repeat {
+    width: 20px;
+    height: 20px;
+    color: white;
+    background: none;
+    border: 0;
+    cursor: pointer;
+}
